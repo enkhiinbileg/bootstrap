@@ -1,0 +1,19 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    .Hero-section {
+      background: #4a90e2;
+    }
+    
+    .title-size {
+      font-size: 57px;
+    }
+    .hero-text {
+      font-size: 1.7em;
+    }
+.nav-link{
+    color: white;
+    font-weight: 600;
+}
